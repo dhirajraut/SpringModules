@@ -1,2 +1,2 @@
 # SpringModules
-Depricated. Please refer SimpleSpringBootWithJpaSupport
+Deprecated. Please refer SimpleSpringBootWithJpaSupport
